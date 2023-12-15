@@ -20,7 +20,7 @@
 
 
 ## Desenvolvimento
-O programa foi desenvolvido como parte do Desafio do Curso de Java da AdaTech, ministrado pelos professores Rodolfo e .
+O programa foi desenvolvido como parte do Desafio do Curso de Java da AdaTech, ministrado pelos professores Rodolfo e Luciano.
 
 ## Licença
 Este projeto é licenciado sob a Licença do Rock in TI -
